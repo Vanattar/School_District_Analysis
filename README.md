@@ -1,7 +1,7 @@
-# School_District_Analysis
+# **School_District_Analysis**  #
 A high-level snapshot of the district's key metrics using Anaconda, Jupyter Notebook, Pandas and Python.
 
-##Overview of the school district analysis: Explain the purpose of this analysis.
+##  **The purpose and overview of the school district analysis:**  ##
 
 * A high-level snapshot of the district's key metrics, presented in a table format
 * An overview of the key metrics for each school, presented in a table format
@@ -13,18 +13,20 @@ A high-level snapshot of the district's key metrics using Anaconda, Jupyter Note
   - School performance based on the school size 
   - School performance based on the type of school
 
-##Results: 
-Using bulleted lists and images of DataFrames as support, address the following questions.
+## **Results:** ##
 
-How is the district summary affected?
-How is the school summary affected?
-How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
-How does replacing the ninth-grade scores affect the following:
-Math and reading scores by grade
-Scores by school spending
-Scores by school size
-Scores by school type
+* How is the district summary affected?
 
-##Summary: 
+* How is the school summary affected?
+
+* How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+
+* How does replacing the ninth-grade scores affect the following:
+* Math and reading scores by grade
+* Scores by school spending
+* Scores by school size
+* Scores by school type
+
+## **Summary:** ##
 Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
 

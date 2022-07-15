@@ -21,7 +21,7 @@ A high-level snapshot of the district's key metrics using Anaconda, Jupyter Note
 * School Summary
 <img width="1246" alt="School Summary" src="https://user-images.githubusercontent.com/104282746/179121981-14b30249-827b-454b-8e67-2df1300f8e08.png">
 
-* Replacing 461 ninth graders’ math and reading scores at Thomas High School’s significantly increases last column on the right % overall passing.
+* Replacing 461 ninth graders’ math and reading scores at Thomas High School’s significantly increases the scores in the last three right hand columns:    % passing math from 66.91 to 93.18, % passing reading from 69.66 to 96.53 and % overall passing from 65.07 to 90.58.
 <img width="1226" alt="Thomas High School  Before" src="https://user-images.githubusercontent.com/104282746/179120660-b8719afe-1a37-4244-ad44-deea61874617.png">
 <img width="1234" alt="Thomas High School After" src="https://user-images.githubusercontent.com/104282746/179120677-7e474352-4cf2-427b-bc60-ce419dd1d922.png">
 

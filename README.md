@@ -41,5 +41,6 @@ A high-level snapshot of the district's key metrics using Anaconda, Jupyter Note
 <img width="758" alt="Scores by School Type" src="https://user-images.githubusercontent.com/104282746/179123153-818ada1e-b6d5-4980-a42e-cfd85d1edfff.png">
 
 ## **Summary:** ##
-Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+Thomas High School is now a top performing school with passing scores in math, reading and % overall passing. 
+<img width="1237" alt="Top Schools" src="https://user-images.githubusercontent.com/104282746/179124813-8465207e-8c87-4f79-9ead-173cb9194d2b.png">
 
